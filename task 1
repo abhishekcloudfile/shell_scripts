@@ -1,0 +1,26 @@
+#!/bin/bash
+
+
+# Task  2: Echo
+echo " bash script"
+
+# Task  3: Variables
+vari="bash it'a type of shell"
+vari1="shell its type of shell"
+
+# Task  4: Using Variables
+greeting="$vari, $vari1"
+echo "$greeting shell its like utility allows talk to kernel, kernel its heart of linux"
+
+# Task  5: Using Built-in Variables
+#
+echo "shell script its easy"
+echo "just need clear concepts"
+echo "keep practice on regular basis"
+echo "again and again"
+echo "1 day you can achive "
+echo "congratulations"
+
+# Task  6: Wildcards
+echo "Files with .txt extension in the current directory:"
+ls *.txt
